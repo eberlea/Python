@@ -12,3 +12,10 @@ data = np.random.normal(1,1,10)
 
 plt.plot(data)
 
+#run script in terminal 
+# cd \Python\scripts_with_dave
+# ls
+# ./simple_script.py # this will give error
+# chmod u+x simple_script.py # change mode to make executable 
+# ls -l # check to make sure executable
+# ./simple_script.py
